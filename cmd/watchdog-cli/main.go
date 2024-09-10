@@ -3,5 +3,5 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("Hello from word-watchdog!")
+	fmt.Println("Hello from watchdog-cli")
 }
